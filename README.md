@@ -57,7 +57,7 @@ Find the best online resources, tutorials, and documentation for each technology
 
 ## Projects
 
-1. Hello World
+1. [Hello World](Project 01)
 2. Tags and Elements Intro
 
 ## License
