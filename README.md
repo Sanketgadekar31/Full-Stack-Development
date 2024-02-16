@@ -57,6 +57,9 @@ Find the best online resources, tutorials, and documentation for each technology
 
 ## Projects
 
+01: Hello World
+02: Tags and Elements Intro
+
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
