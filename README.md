@@ -59,6 +59,9 @@ Find the best online resources, tutorials, and documentation for each technology
 
 1. Hello World
 2. Tags and Elements Intro
+3. Form structure and creation using HTML
+4. HTML resume
+5. Media tags, Modern HTML and iframes
 
 ## License
 
