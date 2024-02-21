@@ -55,7 +55,7 @@ Find the best online resources, tutorials, and documentation for each technology
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [YT: CodeHelp - by Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
 
-## Projects
+## Modules
 
 1. Hello World
 2. Tags and Elements Intro
